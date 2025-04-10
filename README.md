@@ -27,50 +27,146 @@
 - [Basics of statistics](https://stepik.org/cert/2401088?lang=en)
 - [Python Programming](https://stepik.org/cert/1734559?lang=en)
 
-### Навыки
-Языки программирования
+### Технологический стек
+
+#### Языки программирования
 <p align="left">
   <a href="https://www.python.org/" target="_blank" rel="noreferrer">
-    <img src="https://skillicons.dev/icons?i=python" width="36" height="36" alt="Python" />
+    <img src="https://cdn.simpleicons.org/python" width="36" height="36" alt="Python" />
   </a>
-  <a href="https://www.sql.org/" target="_blank" rel="noreferrer">
-    <img src="https://github.com/devicons/devicon/raw/master/icons/postgresql/postgresql-original.svg" width="36" height="36" alt="SQL" />
+  <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer">
+    <img src="https://cdn.simpleicons.org/postgresql" width="36" height="36" alt="PostgreSQL" />
   </a>
 </p>
-Библиотеки для анализа данных и машинного обучения
+
+#### Data Science и анализ данных
 <p align="left">
   <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer">
-    <img src="https://github.com/devicons/devicon/raw/master/icons/pandas/pandas-original.svg" width="36" height="36" alt="Pandas" />
+    <img src="https://cdn.simpleicons.org/pandas" width="36" height="36" alt="Pandas" />
   </a>
   <a href="https://numpy.org/" target="_blank" rel="noreferrer">
-    <img src="https://github.com/devicons/devicon/raw/master/icons/numpy/numpy-original-wordmark.svg" width="36" height="36" alt="NumPy" />
+    <img src="https://cdn.simpleicons.org/numpy" width="36" height="36" alt="NumPy" />
+  </a>
+  <a href="https://scipy.org/" target="_blank" rel="noreferrer">
+    <img src="https://cdn.simpleicons.org/scipy" width="36" height="36" alt="SciPy" />
   </a>
   <a href="https://matplotlib.org/" target="_blank" rel="noreferrer">
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Created_with_Matplotlib-logo.svg/120px-Created_with_Matplotlib-logo.svg.png" width="36" height="36" alt="Matplotlib" />
   </a>
   <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer">
     <img src="https://assets-global.website-files.com/652e90beeb5eea3b3a2c9078/65e0e0d7a8b6dfddf2c89423_seaborn-p-1080.png" width="36" height="36" alt="Seaborn" />
+  </a>
+</p>
+
+#### Машинное обучение и AutoML
+<p align="left">
   <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer">
     <img src="https://github.com/devicons/devicon/raw/master/icons/scikitlearn/scikitlearn-original.svg" width="36" height="36" alt="Scikit-learn" />
   </a>
-  <a href="https://www.tensorflow.org/" target="_blank" rel="noreferrer">
-    <img src="https://skillicons.dev/icons?i=tensorflow" width="36" height="36" alt="TensorFlow" />
+  <a href="https://xgboost.ai/" target="_blank" rel="noreferrer">
+    <img src="https://cdn.prod.website-files.com/65264f6bf54e751c3a776db1/66d8691e2943609aef09f8ee_xgboost.png" width="36" height="36" alt="XGBoost" />
   </a>
+  <a href="https://catboost.ai/" target="_blank" rel="noreferrer">
+    <img src="https://storage.yandexcloud.net/ds-ods/files/media/hub/icon/2bdd216d7030/b8b5d0d498fe_CatBoost_icon_white_back_icon.svg" width="36" height="36" alt="CatBoost" />
+  </a>
+  <a href="https://lightgbm.readthedocs.io/" target="_blank" rel="noreferrer">
+    <img src="https://cdn.prod.website-files.com/65264f6bf54e751c3a776db1/66d869586acd2fac3976e2b4_lightgbm.png" width="36" height="36" alt="LightGBM" />
+  </a>
+  <a href="https://optuna.org/" target="_blank" rel="noreferrer">
+    <img src="https://i0.wp.com/neptune.ai/wp-content/uploads/2022/10/optuna_logo-01.png" width="36" height="36" alt="Optuna" />
+  </a>
+  <a href="https://shap.readthedocs.io/" target="_blank" rel="noreferrer">
+    <!-- Логотип SHAP (fallback) -->
+    <img src="https://raw.githubusercontent.com/slundberg/shap/master/docs/artwork/shap_logo.png" width="36" height="36" alt="SHAP" />
+  </a>
+</p>
+
+#### Компьютерное зрение и нейросети
+<p align="left">
   <a href="https://pytorch.org/" target="_blank" rel="noreferrer">
-    <img src="https://skillicons.dev/icons?i=pytorch" width="36" height="36" alt="PyTorch" />
+    <img src="https://cdn.simpleicons.org/pytorch" width="36" height="36" alt="PyTorch" />
+  </a>
+  <a href="https://opencv.org/" target="_blank" rel="noreferrer">
+    <img src="https://cdn.simpleicons.org/opencv" width="36" height="36" alt="OpenCV" />
+  </a>
+  <a href="https://github.com/ultralytics/ultralytics" target="_blank" rel="noreferrer">
+    <!-- Официальный логотип Ultralytics -->
+    <img src="https://cdn.prod.website-files.com/646dd1f1a3703e451ba81ecc/64994922f38d60bd95205265_UltralyticsYOLO_mark_white.svg" width="36" height="36" alt="Ultralytics" />
+  </a>
+</p>
+
+#### Обработка текста и LLM
+<p align="left">
+  <!-- Hugging Face: обновлённый логотип с фронтенда HuggingFace -->
+  <a href="https://huggingface.co/transformers/" target="_blank" rel="noreferrer">
+    <img src="https://huggingface.co/front/assets/huggingface_logo.svg" width="36" height="36" alt="HuggingFace" />
+  </a>
+  <a href="https://python.langchain.com/" target="_blank" rel="noreferrer">
+    <img src="https://cdn.simpleicons.org/langchain" width="36" height="36" alt="LangChain" />
+  </a>
+  <a href="https://ollama.com/" target="_blank" rel="noreferrer">
+    <!-- Логотип Ollama от официального сайта -->
+    <img src="https://ollama.com/public/ollama.png" width="36" height="36" alt="Ollama" />
+  </a>
+</p>
+
+#### Веб и интеграции
+<p align="left">
+  <a href="https://gradio.app/" target="_blank" rel="noreferrer">
+    <img src="https://cdn.simpleicons.org/gradio" width="36" height="36" alt="Gradio" />
+  </a>
+  <a href="https://fastapi.tiangolo.com/" target="_blank" rel="noreferrer">
+    <img src="https://cdn.simpleicons.org/fastapi" width="36" height="36" alt="FastAPI" />
+  </a>
+  <a href="https://python-telegram-bot.org/" target="_blank" rel="noreferrer">
+    <!-- Используем иконку Telegram как ассоциацию с python-telegram-bot -->
+    <img src="https://cdn.simpleicons.org/telegram" width="36" height="36" alt="Telegram" />
+  </a>
+</p>
+
+#### Работа с PDF и визуализация отчётов
+<p align="left">
+  <a href="https://github.com/jsvine/" target="_blank" rel="noreferrer">
+    <!-- Фолбэк-иконка для pdfplumber: можно использовать логотип репозитория (убедитесь, что изображение доступно) -->
+    <img src="https://pbs.twimg.com/profile_images/378800000498662657/9d6886c23679801a951392b1a9f60e70_400x400.png" width="36" height="36" alt="pdfplumber" />
+  </a>
+  <a href="https://www.reportlab.com/" target="_blank" rel="noreferrer">
+    <!-- Обновлённый логотип ReportLab -->
+    <img src="https://s3.eu-west-2.amazonaws.com/files.opentrack.run/reportlab/reportlab-logo-white.svg" width="36" height="36" alt="ReportLab" />
+  </a>
+</p>
+
+#### Дополнительно
+<p align="left">
+  <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
+    <img src="https://cdn.simpleicons.org/docker" width="36" height="36" alt="Docker" />
+  </a>
+  <a href="https://www.dask.org/" target="_blank" rel="noreferrer">
+    <img src="https://cdn.simpleicons.org/dask" width="36" height="36" alt="Dask" />
   </a>
 </p>
 
 ## Мои проекты
 ### CV
-| Название проекта                                                   | Краткое описание                                                                                                                                                                                                                                                         | Используемые библиотеки                                             | Заказчик  |
-|--------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------|-----------|
-| [Waste detection](https://github.com/DanielNRU/waste_detection)    | Разработка модели для детекции и классификации пластикового мусора на изображениях с использованием методов компьютерного зрения.                                                                                                                                        | `Python`, `Numpy`, `SciPy`, `PyTorch`, `OpenCV`, `Ultralytics`      | [Renue](https://renue.ru/)       |
+
+| Название проекта                                                    | Краткое описание                                                                                                                                                                                                                                                | Используемые библиотеки                                                    | Заказчик                         |
+|---------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------|----------------------------------|
+| [Waste detection](https://github.com/DanielNRU/waste_detection)     | Разработка модели для детекции и классификации пластикового мусора на изображениях с использованием методов компьютерного зрения.                                                                                                                                  | `Python`, `NumPy`, `SciPy`, `PyTorch`, `OpenCV`, `Ultralytics`              | [Renue](https://renue.ru/)         |
+| [Plan Points](https://github.com/DanielNRU/plan_points)              | Преобразование планов помещений в координаты опорных точек для создания интерактивных 3D визуализаций недвижимости.                                                                                                                                                | `Python`, `NumPy`, `OpenCV`, `Ultralytics`, `Gradio`, `Torch`, `Torchvision` | [XR Place](https://xrplace.io)                         |
 
 ### NLP
 | Название проекта                                                   | Краткое описание                                                                                                                                                                                                                                                         | Используемые библиотеки                                             | Заказчик    |
 |--------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------|-------------|
 | [Multi label reviews classifier](https://github.com/DanielNRU/multi-label-reviews-classifier) | Разработка модели для многоклассовой классификации отзывов с возможностью присвоения нескольких меток, используя fine-tuning модели BERT.                                                                                                                                | `Python`, `NumPy`, `pandas`, `PyTorch`, `Transformers`, `scikit-learn` | [ecom.tech (ex. Samokat.tech)](https://samokat.tech/)     |
+| [Telegram Final PDF Dossier Bot](https://github.com/DanielNRU/final_pdf_dossier)  | Автоматизированный профдизайн подростков. Система принимает результаты тестирования (PDF), анализирует их локально с помощью LLM (Ollama с моделью YandexGPT-5-Lite-8B-instruct-GGUF) и генерирует персонализированное досье, включающее разделы: профессиональные склонности, личностные особенности, ценностные ориентиры и скрытые таланты. | `Python`, `python-telegram-bot`, `pdfplumber`, `ReportLab`, `langchain`, `Ollama`, `Docker`, `asyncio` | [YOU CAN](https://youcan.by)      |
+
+
+### ML / Competitions
+
+| Название проекта | Краткое описание | Используемые библиотеки | Ссылка |
+|------------------|------------------|-------------------------|----------|
+| [Customer Churn Prediction](https://github.com/DanielNRU/customer_churn_prediction) | Тестовое задание от [А ДЕНЬГИ](https://adengi.ru/). Разработка модели для прогнозирования оттока клиентов на основе данных о клиентах и их займах, выполненная в формате соревнования на Kaggle (3е место). | `Python`, `Pandas`, `NumPy`, `Scikit-learn`, `XGBoost`, `CatBoost`, `LightGBM`, `Optuna`, `SHAP`, `PyTorch`, `Matplotlib`, `Seaborn`, `Phik`, `Dask`, `Docker`, `Gradio`, `FastAPI` | [Kaggle](https://www.kaggle.com/competitions/adengi-internship/leaderboard)|
+
 
 <details>
 <summary>Ниже представлены проекты, выполненные в рамках различных курсов и практик.</summary>
