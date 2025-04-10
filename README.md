@@ -168,12 +168,6 @@
 | [Customer Churn Prediction](https://github.com/DanielNRU/customer_churn_prediction) | Тестовое задание от [А ДЕНЬГИ](https://adengi.ru/). Разработка модели для прогнозирования оттока клиентов на основе данных о клиентах и их займах, выполненная в формате соревнования на Kaggle (3е место). | `Python`, `Pandas`, `NumPy`, `Scikit-learn`, `XGBoost`, `CatBoost`, `LightGBM`, `Optuna`, `SHAP`, `PyTorch`, `Matplotlib`, `Seaborn`, `Phik`, `Dask`, `Docker`, `Gradio`, `FastAPI` | [Kaggle](https://www.kaggle.com/competitions/adengi-internship/leaderboard)|
 
 
-### ML / Competitions
-
-| Название проекта | Краткое описание | Используемые библиотеки | Ссылка |
-|------------------|------------------|-------------------------|----------|
-| [Customer Churn Prediction](https://github.com/DanielNRU/customer_churn_prediction) | Тестовое задание от [А ДЕНЬГИ](https://adengi.ru/). Разработка модели для прогнозирования оттока клиентов на основе данных о клиентах и их займах, выполненная в формате соревнования на Kaggle (3е место). | `Python`, `Pandas`, `NumPy`, `Scikit-learn`, `XGBoost`, `CatBoost`, `LightGBM`, `Optuna`, `SHAP`, `PyTorch`, `Matplotlib`, `Seaborn`, `Phik`, `Dask`, `Gradio`, `FastAPI` | [Kaggle](https://www.kaggle.com/competitions/adengi-internship/leaderboard)|
-
 
 <details>
 <summary>Ниже представлены проекты, выполненные в рамках различных курсов и практик.</summary>
