@@ -141,6 +141,9 @@
   <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
     <img src="https://cdn.simpleicons.org/docker" width="36" height="36" alt="Docker" />
   </a>
+    <a href="http://labelstud.io/" target="_blank" rel="noreferrer">
+        <img src="https://cdn.prod.website-files.com/65264f6bf54e751c3a776db1/66d867d15dd7dff0bd9fbe50_label-studio.png" width="36" height="36" alt="LabelStudio" />
+  </a>
   <a href="https://www.dask.org/" target="_blank" rel="noreferrer">
     <img src="https://cdn.simpleicons.org/dask" width="36" height="36" alt="Dask" />
   </a>
