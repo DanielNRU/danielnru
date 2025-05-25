@@ -1,29 +1,67 @@
-# Привет! 👋
+<!-- profile header -->
+<p align="center">
+  <img src="https://avatars.githubusercontent.com/u/59197415?v=4" width="120" style="border-radius:50%" alt="avatar"/>
+</p>
 
-Меня зовут Мельник Даниил, и я Data Scientist.
+<h1 align="center">Привет, я Мельник Даниил! 👋</h1>
+<p align="center">
+  <b>Data Scientist | ML Engineer | Data Analyst</b>
+</p>
 
-## Обо мне
+<p align="center">
+  <a href="https://www.kaggle.com/danielnru" target="_blank"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white"/></a>
+  <a href="https://t.me/danielnru" target="_blank"><img src="https://img.shields.io/badge/Telegram-229ED9?style=for-the-badge&logo=telegram&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/danielnru/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="mailto:danielnru@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+</p>
 
-- 💻 Имею опыт работы с Python и SQL, а также с библиотеками, используемыми в анализе данных и машинном обучении.
+---
+
+## 🧑‍💻 Обо мне
+
+- Data Scientist с опытом в ML, NLP, CV и автоматизации.
+- Люблю создавать end-to-end решения: от сбора данных до деплоя моделей.
+- Постоянно развиваюсь через профессиональные сообщества, Telegram‑каналы и hands‑on проекты; самостоятельный и довожу задачи до результата.
+
+---
+
+## 🏆 Ключевые достижения
+
+- 🥉 3 место на Kaggle среди 72 команд (Customer Churn Prediction)
+- 🚀 Автоматизировал сортировку 14 видов пластиковых отходов (precision 0.982, recall 0.921)
+- ⚡ Ускорил NLP-пайплайн классификации отзывов в 3 раза, accuracy +44%
+- 🤖 Разработал Telegram-бота для автоматической обработки PDF-отчётов (сократил время генерации с 30 мин до 3 мин)
+- 🏷️ Построил NER-адаптер для медицинских текстов (F1-score 0.91)
+
+---
+
+## 💡 Чем могу быть полезен
+
+- Построение и внедрение ML-моделей под бизнес-задачи
+- Автоматизация аналитики и отчётности
+- Интеграция ML-решений в продукты и мессенджеры (Telegram, web)
+- Интерпретация и визуализация результатов для бизнеса
+- 
+---
 
 ## Образование 
 - 🎓 Яндекс Практикум, специальность: "Data Science" (сентябрь, 2024)
 - 🎓 Кемеровский Государственный Университет, специальность: "Автоматизированные системы обработки информации и управления" (2011).
 
-### Бейджи Credly
-[![IBM AI Engineering Professional Certificate (V2)](https://danieln.ru/wp-content/ibmde.png)](https://www.credly.com/badges/2e76509a-6ae6-4aba-8910-5876268d4912/linked_in_profile)
-[![IBM Data Science Professional Certificate](https://danieln.ru/wp-content/ibmde.png)](https://www.credly.com/badges/7bd9bd39-533b-4708-91e1-0da3add17250/linked_in_profile)
-[![Google Advanced Data Analytics Certificate](https://images.credly.com/size/110x110/images/9267a387-1a51-4ebe-8c05-976a5ec4c3d0/image.png)](https://www.credly.com/badges/b339adc9-4717-4be8-93ac-8f5dc5915474/linked_in_profile)
-[![Google Data Analytics Professional Certificate](https://images.credly.com/size/110x110/images/d41de2b7-cbc2-47ec-bcf1-ebecbe83872f/GCC_badge_DA_1000x1000.png)](https://www.credly.com/earner/earned/badge/c4906dec-663b-4438-898a-a84c3261b925)
-[![Google AI Essentials](https://images.credly.com/size/110x110/images/ea3eec65-ddad-4242-9c59-1defac0fa2d9/image.png)](https://www.credly.com/badges/a388fb27-7e39-48a5-a695-6b00d21137d2/linked_in_profile)
+### 🏆 Сертификаты и бейджи
 
-### Сертификаты Coursera
+<p align="left">
+  <a href="https://www.credly.com/badges/2e76509a-6ae6-4aba-8910-5876268d4912/linked_in_profile"><img src="https://danieln.ru/wp-content/ibmde.png" width="60" title="IBM AI Engineering"/></a>
+  <a href="https://www.credly.com/badges/7bd9bd39-533b-4708-91e1-0da3add17250/linked_in_profile"><img src="https://danieln.ru/wp-content/ibmde.png" width="60" title="IBM Data Science"/></a>
+  <a href="https://www.credly.com/badges/b339adc9-4717-4be8-93ac-8f5dc5915474/linked_in_profile"><img src="https://images.credly.com/size/110x110/images/9267a387-1a51-4ebe-8c05-976a5ec4c3d0/image.png" width="60" title="Google Advanced Data Analytics"/></a>
+  <a href="https://www.credly.com/earner/earned/badge/c4906dec-663b-4438-898a-a84c3261b925"><img src="https://images.credly.com/size/110x110/images/d41de2b7-cbc2-47ec-bcf1-ebecbe83872f/GCC_badge_DA_1000x1000.png" width="60" title="Google Data Analytics"/></a>
+  <a href="https://www.credly.com/badges/a388fb27-7e39-48a5-a695-6b00d21137d2/linked_in_profile"><img src="https://images.credly.com/size/110x110/images/ea3eec65-ddad-4242-9c59-1defac0fa2d9/image.png" width="60" title="Google AI Essentials"/></a>
+</p>
 
 - [Machine Learning (Stanford University)](https://www.coursera.org/account/accomplishments/specialization/CB66P7ZDFDGL)
 - [Introduction to Statistics (Stanford University)](https://www.coursera.org/account/accomplishments/verify/8BFTAHKZJVEY)
-
-### Сертификаты Stepik
-
+- [Basics of statistics (Stepik)](https://stepik.org/cert/2401088?lang=en)
+- [Python Programming (Stepik)](https://stepik.org/cert/1734559?lang=en)
 - [Basics of statistics](https://stepik.org/cert/2401088?lang=en)
 - [Python Programming](https://stepik.org/cert/1734559?lang=en)
 
@@ -149,36 +187,27 @@
   </a>
 </p>
 
-## Мои проекты
-### CV
+## 📈 Проекты
 
-| Название проекта                                                    | Краткое описание                                                                                                                                                                                                                                                | Используемые библиотеки                                                    | Заказчик                         |
-|---------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------|----------------------------------|
-| [Waste detection](https://github.com/DanielNRU/waste_detection)     | Разработка модели для детекции и классификации пластикового мусора на изображениях с использованием методов компьютерного зрения.                                                                                                                                  | `Python`, `NumPy`, `SciPy`, `PyTorch`, `OpenCV`, `Ultralytics`              | [Renue](https://renue.ru/)         |
-| [Plan Points](https://github.com/DanielNRU/plan_points)              | Преобразование планов помещений в координаты опорных точек для создания интерактивных 3D визуализаций недвижимости.                                                                                                                                                | `Python`, `NumPy`, `OpenCV`, `Ultralytics`, `Gradio`, `Torch`, `Torchvision` | [XR Place](https://xrplace.io)                         |
-
-### NLP
-| Название проекта                                                   | Краткое описание                                                                                                                                                                                                                                                         | Используемые библиотеки                                             | Заказчик    |
-|--------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------|-------------|
-| [PollenNER](https://github.com/DanielNRU/PollenNER_RE)                 | Анализ сообщений пользователей Pollen Club: выделение топонимов, симптомов, препаратов и аллергенов.                                                                                                                                      | `Python`, `PyTorch`, `Transformers`, `PEFT`, `LoRA`, `Label Studio`   | [Пыльца Club](https://pollen.club/) |
-| [Telegram Final PDF Dossier Bot](https://github.com/DanielNRU/final_pdf_dossier)  | Автоматизированный профдизайн подростков. Система принимает результаты тестирования (PDF), анализирует их локально с помощью LLM (Ollama с моделью YandexGPT-5-Lite-8B-instruct-GGUF) и генерирует персонализированное досье, включающее разделы: профессиональные склонности, личностные особенности, ценностные ориентиры и скрытые таланты. | `Python`, `python-telegram-bot`, `pdfplumber`, `ReportLab`, `langchain`, `Ollama`, `Docker`, `asyncio` | [YOU CAN](https://youcan.by)      |
-| [Multi label reviews classifier](https://github.com/DanielNRU/multi-label-reviews-classifier) | Разработка модели для многоклассовой классификации отзывов с возможностью присвоения нескольких меток, используя fine-tuning модели BERT.                                                                                                                                | `Python`, `NumPy`, `pandas`, `PyTorch`, `Transformers`, `scikit-learn` | [ecom.tech (ex. Samokat.tech)](https://samokat.tech/)     |
-
-
-### ML / Competitions
-
-| Название проекта | Краткое описание | Используемые библиотеки | Ссылка |
-|------------------|------------------|-------------------------|----------|
-| [Customer Churn Prediction](https://github.com/DanielNRU/customer_churn_prediction) | Тестовое задание от [А ДЕНЬГИ](https://adengi.ru/). Разработка модели для прогнозирования оттока клиентов на основе данных о клиентах и их займах, выполненная в формате соревнования на Kaggle (3е место). | `Python`, `Pandas`, `NumPy`, `Scikit-learn`, `XGBoost`, `CatBoost`, `LightGBM`, `Optuna`, `SHAP`, `PyTorch`, `Matplotlib`, `Seaborn`, `Phik`, `Dask`, `Docker`, `Gradio`, `FastAPI` | [Kaggle](https://www.kaggle.com/competitions/adengi-internship/leaderboard)|
-
+| Название | Описание | Стек | Заказчик |
+|:---|:---|:---|:---|
+| <b>Компьютерное зрение (CV)</b> |  |  |  |
+| [Plan Points](https://github.com/DanielNRU/plan_points) | Преобразование планов помещений в координаты для 3D-визуализации | Python, OpenCV, Ultralytics, Gradio, Torch | [XR Place](https://xrplace.io) |
+| [Waste detection](https://github.com/DanielNRU/waste_detection) | Детекция и классификация пластикового мусора на изображениях | Python, PyTorch, OpenCV, Ultralytics | [Renue](https://renue.ru/) |
+| <b>NLP / LLM</b> |  |  |  |
+| [PollenNER](https://github.com/DanielNRU/PollenNER_RE) | NER для анализа сообщений пользователей: топонимы, симптомы, препараты, аллергены | Python, PyTorch, Transformers, PEFT, LoRA, Label Studio | [Пыльца Club](https://pollen.club/) |
+| [Telegram Final PDF Dossier Bot](https://github.com/DanielNRU/final_pdf_dossier) | Автоматизация профдизайна подростков: анализ PDF, генерация досье с помощью LLM | python-telegram-bot, pdfplumber, langchain, Ollama, Docker | [YOU CAN](https://youcan.by) |
+| [Multi label reviews classifier](https://github.com/DanielNRU/multi-label-reviews-classifier) | Многометочная классификация отзывов с использованием BERT | Python, PyTorch, Transformers, scikit-learn | [ecom.tech](https://samokat.tech/) |
+| <b>ML / Competitions</b> |  |  |  |
+| [Customer Churn Prediction](https://github.com/DanielNRU/customer_churn_prediction) | Модель прогнозирования оттока клиентов (Kaggle 3 место) | XGBoost, CatBoost, LightGBM, Optuna, SHAP, PyTorch, Gradio, FastAPI | [Kaggle](https://www.kaggle.com/competitions/adengi-internship/leaderboard) |
 
 
 <details>
-<summary>Ниже представлены проекты, выполненные в рамках различных курсов и практик.</summary>
+<summary>🎓 Ниже представлены проекты, выполненные в рамках различных курсов и практик.</summary>
 <br>
 
 
-| Название проекта                                                   | Краткое описание                                                                                                                                                                                                                                                         | Используемые библиотеки                                             |
+| Название проекта                                                   | Описание                                                                                                                                                                                                                                                         | Стек                                             |
 |--------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------|
 | [HR analytics - Google Advanced Data Analytics](https://github.com/DanielNRU/projects_for_courses/tree/main/HR_analytics_Google_Advanced_Data_Analytics) | Анализ данных, собранных отделом кадров, и построение моделей, прогнозирующих, покинет ли сотрудник компанию.                                                                                                                      | `Pandas`, `NumPy`, `Matplotlib`, `Seaborn`, `XGBoost`, `Scikit-learn` |
 | [SpaceX - IBM Data Science Capstone](https://github.com/DanielNRU/projects_for_courses/tree/main/SpaceX_IBM_Data_Science_Capstone) | Прогноз посадки первой ступени ракеты SpaceX Falcon 9.                                                                                                                                                                               | `Pandas`, `NumPy`, `BeautifulSoup`, `Matplotlib`, `Seaborn`, `SQL`, `Folium`, `Scikit-learn` |
@@ -189,7 +218,7 @@
 # Yandex Praktikum Data Science Projects
 ## 1. Исследовательский анализ данных (EDA)
 
-| Название проекта                                                   | Краткое описание                                                                                                                                                                                                                                                         | Используемые библиотеки                                             |
+| Название проекта                                                   | Описание                                                                                                                                                                                                                                                         | Стек                                             |
 |--------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------|
 | [01 - Музыка больших городов](https://github.com/DanielNRU/projects_for_courses/tree/main/Yandex_Praktikum_Data_Science_Projects/big_city_music_analysis) | Анализ данных для выявления закономерностей между жанрами музыки, которую слушают в разных городах. Это помогает маркетологам лучше понимать музыкальные предпочтения пользователей в зависимости от места их проживания.                                                 | `pandas`, `numpy`, `matplotlib`                                      |
 | [02 - Анализ надёжности заёмщиков](https://github.com/DanielNRU/projects_for_courses/tree/main/Yandex_Praktikum_Data_Science_Projects/borrower_reliability_analysis) | Исследование факторов, влияющих на платёжеспособность клиентов банков. Цель — построить модель для оценки вероятности возврата кредита на основе данных о клиентах и их кредитной истории.                                                                               | `pandas`, `numpy`, `matplotlib`                                      |
@@ -202,7 +231,7 @@
 
 ## 2. Машинное обучение и моделирование
 
-| Название проекта                                                   | Краткое описание                                                                                                                                                                                                                                                         | Используемые библиотеки                                             |
+| Название проекта                                                   | Описание                                                                                                                                                                                                                                                         | Стек                                             |
 |--------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------|
 | [09 - Оптимизация локации для нефтяной скважины](https://github.com/DanielNRU/projects_for_courses/tree/main/Yandex_Praktikum_Data_Science_Projects/optimal_location_for_oil_well) | Необходимо решить, где бурить новую скважину для добывающей компании «ГлавРосГосНефть». Используя данные геологоразведки из трёх регионов, строится модель машинного обучения для оценки прибыли и рисков добычи нефти.                                                 | `pandas`, `os`, `numpy`, `matplotlib`, `seaborn`, `scikit-learn`     |
 | [10 - Оценка стоимости автомобилей](https://github.com/DanielNRU/projects_for_courses/tree/main/Yandex_Praktikum_Data_Science_Projects/car_price_prediction) | Построение модели для определения стоимости автомобиля на вторичном рынке. Анализ данных о характеристиках автомобилей с целью прогнозирования их цены.                                                                                                                  | `pandas`, `numpy`, `matplotlib`                                      |
@@ -211,13 +240,13 @@
 
 ## 3. Компьютерное зрение
 
-| Название проекта                                                   | Краткое описание                                                                                                                                                                                                                                                         | Используемые библиотеки                                             |
+| Название проекта                                                   | Описание                                                                                                                                                                                                                                                         | Стек                                             |
 |--------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------|
 | [13 - Определение возраста по фотографии](https://github.com/DanielNRU/projects_for_courses/tree/main/Yandex_Praktikum_Data_Science_Projects/age_prediction_from_photos) | Построение модели для определения возраста покупателей на основании их фотографий с использованием методов компьютерного зрения и машинного обучения.                                                                                                                   | `pandas`, `numpy`, `matplotlib`                                      |
 
 ## 4. Комплексные проекты (Capstone)
 
-| Название проекта                                                   | Краткое описание                                                                                                                                                                                                                                                         | Используемые библиотеки                                             |
+| Название проекта                                                   | Описание                                                                                                                                                                                                                                                         | Стек                                             |
 |--------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------|
 | [14 - Выпускной проект](https://github.com/DanielNRU/projects_for_courses/tree/main/Yandex_Praktikum_Data_Science_Projects/capstone_project) | Оператор связи «ТелеДом» хочет бороться с оттоком клиентов, предлагая промокоды и специальные условия тем, кто планирует отказаться от услуг связи. Цель проекта — обучить модель для прогноза оттока клиентов на основе персональных данных, тарифов и услуг абонентов. | `pandas`, `numpy`, `matplotlib`, `seaborn`, `phik`, `scikit-learn`, `catboost`, `shap` |
 
