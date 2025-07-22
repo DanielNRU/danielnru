@@ -192,6 +192,7 @@
 | Название | Описание | Стек | Заказчик |
 |:---|:---|:---|:---|
 | <b>Компьютерное зрение (CV)</b> |  |  |  |
+| [ClashMark](https://github.com/DanielNRU/ClashMark) | Веб-приложение для анализа коллизий BIM-моделей: автоматическая и ручная разметка, обучение моделей, live-аналитика | Python, Flask, PyTorch, pandas, lxml, Docker | 🛠 Pet-проект / Open Source |
 | [Plan Points](https://github.com/DanielNRU/plan_points) | Преобразование планов помещений в координаты для 3D-визуализации | Python, OpenCV, Ultralytics, Gradio, Torch | [XR Place](https://xrplace.io) |
 | [Waste detection](https://github.com/DanielNRU/waste_detection) | Детекция и классификация пластикового мусора на изображениях | Python, PyTorch, OpenCV, Ultralytics | [Renue](https://renue.ru/) |
 | <b>NLP / LLM</b> |  |  |  |
